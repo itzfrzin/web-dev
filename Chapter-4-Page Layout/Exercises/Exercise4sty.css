@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #e0f0ff; /* Light blue background */
+}
+
+nav {
+	background-color: #17072b;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+a {
+	color: #fff;
+}
+
+aside {
+	font-family: Arial;
+	font-size: 20px;
+	padding-left: 30px;
+	padding-bottom: 182px;
+	color: white;
+	background-color: #172d67;
+	float: right;
+	margin-top: 4px;
+}
+
+section {
+	padding: 20px;
+	text-align: left;
+	line-height: 1.5;
+}
+
+footer {
+	background-color: #388772;
+	color: #fff;
+	text-align: center;
+}

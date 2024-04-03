@@ -1,0 +1,72 @@
+/* External CSS file - styles.css */
+
+/* Resetting default browser styles */
+body {
+    font-family: "Arial Black", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Setting purple background */
+    background-color: #7b68ee;
+}
+
+/* Styling for the header section */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for the main title */
+h1 {
+    margin: 0;
+}
+
+/* Styling for the navigation bar */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Styling for the IMDb button */
+.button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Styling for sections */
+.section {
+    margin-top: 20px;
+}
+
+/* Styling for section headings */
+h2 {
+    color: #333;
+}
+
+/* Styling for cast list */
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 5px;
+}

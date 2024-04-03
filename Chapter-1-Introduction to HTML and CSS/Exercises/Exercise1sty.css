@@ -1,0 +1,55 @@
+/* Style for the heading */
+h1 {
+    color: #333;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: capitalize; /* Capitalize the title */
+}
+
+/* Style for the description */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Style for the ingredients heading */
+h2 {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Style for the ingredients list */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+/* Style for the method heading */
+h2:last-of-type {
+    margin-bottom: 10px;
+}
+
+/* Style for the method steps */
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ol li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Background color */
+body {
+    background-color: #c3e6cb; /* Green background color */
+}
